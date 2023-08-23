@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+// font-family: 'Dancing Script', cursive;
+
+$danger: peru;
+$font-family-base: 'Dancing Script', cursive;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+p {
+    color: $pink-600;
+    background-color: #555;
+}
